@@ -1,7 +1,9 @@
 # WiFi Monitoring Tool  
 
 ## 📌 About  
-This is a **personal project** I built for monitoring my WiFi network usage. Since this is my **first time working with network and HTML request libraries**, I relied heavily on **AI assistance** for implementing the necessary functions.  
+This is a **personal project** I built for monitoring my WiFi network usage. Since this is my **first time working with network and HTML request libraries**, I relied heavily on **AI assistance** for implementing the necessary functions. 
+
+![screenshot](image.png)
 
 The tool is specifically designed for **my router and WiFi setup**, meaning it **won't work on other routers** without modifications. However, **if you'd like to adapt it to your own router, feel free to contact me** for help with implementation!  
 
