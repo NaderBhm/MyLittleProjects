@@ -4,8 +4,6 @@ Hey there! 👋
 
 This is my collection of **small, personal projects**—a mix of things I built for fun, learning, and experimentation. Feel free to **look around, explore, and even use** anything you find interesting!  
 
-![screenshot](image.png)
-
 ## 📌 What You’ll Find Here  
 - **Experiments with new technologies**  
 - **Projects built to solve small problems**  
